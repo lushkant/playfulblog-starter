@@ -7,8 +7,8 @@
 		<?php
 		wp_title( '|', true, 'right' );
 		bloginfo( 'name' );
-?>
-</title>
+		?>
+		</title>
 	
 	<?php wp_head(); ?>
 	</head>
